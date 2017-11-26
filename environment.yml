@@ -1,0 +1,65 @@
+name: dl2
+channels:
+- defaults
+dependencies:
+- appnope=0.1.0=py35hd172556_0
+- ca-certificates=2017.08.26=ha1e5d58_0
+- certifi=2017.7.27.1=py35h0fdde5e_0
+- cycler=0.10.0=py35hb89929e_0
+- decorator=4.1.2=py35hf37c5b3_0
+- freetype=2.8=h12048fb_1
+- h5py=2.7.0=py35hdd840f3_1
+- hdf5=1.10.1=ha036c08_1
+- intel-openmp=2018.0.0=h68bdfb3_7
+- ipython=6.1.0=py35h3f7db8a_1
+- ipython_genutils=0.2.0=py35hf129286_0
+- jedi=0.10.2=py35heb0647e_0
+- jpeg=9b=he5867d9_2
+- keras=2.0.8=py35h86bcf3e_0
+- libcxx=4.0.1=h579ed51_0
+- libcxxabi=4.0.1=hebd6815_0
+- libedit=3.1=hb4e282d_0
+- libgfortran=3.0.1=h93005f0_2
+- libpng=1.6.32=h6184301_3
+- libprotobuf=3.4.1=h326466f_0
+- libtiff=4.0.8=h8cd0352_9
+- matplotlib=2.1.0=py35hc2166d4_0
+- mkl=2018.0.0=h5ef208c_6
+- ncurses=6.0=hd04f020_2
+- numpy=1.12.1=py35h655160a_1
+- olefile=0.44=py35h1f523c6_0
+- openssl=1.0.2m=h86d3e6a_1
+- pexpect=4.2.1=py35hde8bc66_0
+- pickleshare=0.7.4=py35h9517181_0
+- pillow=4.2.1=py35h0180db1_0
+- pip=9.0.1=py35h33ce766_4
+- prompt_toolkit=1.0.15=py35h93950c5_0
+- protobuf=3.4.1=py35h9d33684_0
+- ptyprocess=0.5.2=py35hfc37984_0
+- pygments=2.2.0=py35h392a662_0
+- pyparsing=2.2.0=py35h31fab04_0
+- python=3.5.4=0
+- python-dateutil=2.6.1=py35h10515e0_1
+- pytz=2017.2=py35h9789cde_1
+- pyyaml=3.12=py35hf8cec8a_1
+- readline=6.2=2
+- scipy=1.0.0=py35h8b35106_0
+- setuptools=36.5.0=py35h52cde6a_0
+- simplegeneric=0.8.1=py35h0a3d746_0
+- six=1.11.0=py35h39a4c60_1
+- sqlite=3.13.0=0
+- tensorflow=1.1.0=np112py35_0
+- tk=8.5.18=0
+- tornado=4.5.2=py35h4099233_0
+- traitlets=4.3.2=py35hd3d1486_0
+- wcwidth=0.1.7=py35hdd0c235_0
+- werkzeug=0.12.2=py35h65e0cfe_0
+- wheel=0.29.0=py35ha7aa5c4_1
+- xz=5.2.3=h0278029_2
+- yaml=0.1.7=hc338f04_2
+- zlib=1.2.11=hf3cbc9b_2
+- pip:
+  - ipython-genutils==0.2.0
+  - prompt-toolkit==1.0.15
+prefix: /Users/karan/anaconda2/envs/dl2
+
